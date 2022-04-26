@@ -28,6 +28,7 @@ This coursework is based largely on the OSSU computer science curriculum. I have
   - [Advanced programming](#advanced-programming)
   - [Advanced systems](#advanced-systems)
   - [Advanced theory](#advanced-theory)
+  - [Web Development](web-development)
 - [Final project](#final-project)
 
 ---
@@ -267,8 +268,10 @@ Courses | Duration | Effort | Prerequisites
 [Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2)
 [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
-
-
+### Web Development
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[CS50's Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| 12 weeks| 6-9 hours/week|CS50x
 
 ## Final project
 
